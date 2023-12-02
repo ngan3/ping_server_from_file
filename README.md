@@ -1,0 +1,2 @@
+# ping_server_from_file
+ping_server_from_file
